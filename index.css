@@ -9,3 +9,7 @@
     height: 100px;
     background-color: rgb(98, 52, 126);
 }
+
+table{
+    border: 1px solid #c54444;
+}
